@@ -1,13 +1,13 @@
 public class Add {
 
 	public static void main(String[] args) {
-		// 100°ú 200À» ´õÇÏ´Â ÇÁ·Î±×·¥
+		// 100ê³¼ 300ì„ ë”í•˜ëŠ” í”„ë¡œê·¸ë¨
 		int x;
 		int y;
-		int sum;		// ÇÕÀ» ÀúÀåÇÏ´Â º¯¼ö
+		int sum;		// í•©ì„ ì €ì¥í•˜ëŠ” ë³€ìˆ˜
 		x = 100;
-		y = 200;
+		y = 300;
 		sum = x + y;
-		System.out.println("100°ú 200ÀÇ ÇÕ="+sum);
+		System.out.println("100ê³¼ 200ì˜ í•©="+sum);
 	}
 }
